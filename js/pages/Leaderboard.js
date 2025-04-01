@@ -8,10 +8,10 @@ export default {
         Spinner,
     },
     data: () => ({
-        leaderboard: [100],
-        loading: true,
-        selected: 0,
-        err: [0],
+        leaderboard: [],
+        loading: false,
+        selected: 1,
+        err: [],
     }),
     template: `
         <main v-if="loading">
