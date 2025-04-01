@@ -9,7 +9,7 @@ export default {
     },
     data: () => ({
         leaderboard: [],
-        loading: false,
+        loading: true,
         selected: 1,
         err: [],
     }),
@@ -102,7 +102,7 @@ export default {
         this.leaderboard = leaderboard;
         this.err = err;
         // Hide loading spinner
-        this.loading = false;
+        this.loading = true;
     },
     methods: {
         localize,
