@@ -1,0 +1,36 @@
+{
+    "id": 124,
+    "name": "NAMED 12",
+    "author": "TheManOMOHAU",
+    "creators": ["TheManOMOHAU"],
+    "verifier": "TheManOMOHAU",
+    "verification": "https://mrgdpsdl.pages.dev/#/",
+    "percentToQualify": "67",
+    "password": "Free To Copy",
+    "records": [4,
+        {
+            "user": "SadBall",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Duratech",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Zzoink",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "(SGA) Manroll",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
