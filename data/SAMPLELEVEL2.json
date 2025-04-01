@@ -1,12 +1,30 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
+    "id": 110,
+    "name": "BENNOR",
+    "author": "SadBall",
+    "creators": ["SadBall"],
+    "verifier": "SadBall",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
+    "percentToQualify": "55",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Zzoink",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "(SGA) SiyaWasHere",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "(SEBA) SpilerSebata",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 73,
+            "hz": 60
+        }
     ]
 }

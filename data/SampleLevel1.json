@@ -1,18 +1,48 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
+    "id": 115,
+    "name": "ZERO AURA",
+    "author": "TheManOMOHAU",
+    "creators": ["TheManOMOHAU"],
+    "verifier": "SadBall",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
-    "records": [
+    "percentToQualify": 54,
+    "password": "Free To Copy",
+    "records": [6,
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Duratech",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Zzoink",
+            "link": "https://mrgdpsdl.pages.dev/#/",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "LeiBei",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "(SEBA)SpilerSebata",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "(SGA) Manroll",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "(Nyki) Nyballo",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
