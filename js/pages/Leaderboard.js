@@ -1,7 +1,7 @@
-import { fetchLeaderboard } from '../content.js';
- import { localize } from '../util.js';
+import { fetchLeaderboard } from '/workspaces/MRGDPSDL/js/content';
+ import { localize } from '/workspaces/MRGDPSDL/js/util';
  
- import Spinner from '../components/Spinner.js';
+ import Spinner from '/workspaces/MRGDPSDL/js/components/Spinner';
  
  export default {
      components: {
