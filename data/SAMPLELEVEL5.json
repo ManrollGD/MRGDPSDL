@@ -12,13 +12,14 @@
             "user": "Leibei",
             "link": "https://mrgdpsdl.pages.dev/#/",
             "percent": 100,
-            "hz": 60
+            "hz": 120
         },
         {
             "user": "DaddyP",
             "link": "https://mrgdpsdl.pages.dev/#/",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "Zzoink",

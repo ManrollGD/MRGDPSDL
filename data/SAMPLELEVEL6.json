@@ -12,13 +12,15 @@
             "user": "DaddyP",
             "link": "https://mrgdpsdl.pages.dev/#/",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "Duratech",
             "link": "https://mrgdpsdl.pages.dev/#/",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "Zzoink",
@@ -36,7 +38,8 @@
             "user": "(SEBA) SpilerSebata",
             "link": "https://mrgdpsdl.pages.dev/#/",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
