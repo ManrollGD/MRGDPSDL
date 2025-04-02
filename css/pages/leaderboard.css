@@ -2,7 +2,7 @@
     display: block;
 }
 .page-leaderboard {
-    height: 99%;
+    height: 100%;
     display: grid;
     grid-template-columns: minmax(24rem, 2fr) 3fr;
     grid-template-rows: max-content 1fr;
