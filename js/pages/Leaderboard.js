@@ -98,7 +98,7 @@ import { fetchLeaderboard } from '../content.js';
          },
      },
      async mounted() {
-         const [leaderboard, err] = await fetchLeaderboard();
+         const [leaderboard, err] = await fetchLeaderboard(true);
          this.leaderboard = leaderboard;
          this.err = err;
          // Hide loading spinner
