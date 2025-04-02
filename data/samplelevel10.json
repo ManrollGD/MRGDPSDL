@@ -1,11 +1,11 @@
 {
-    "id": 124,
-    "name": "NAMED 12",
-    "author": "TheManOMOHAU",
-    "creators": ["TheManOMOHAU"],
-    "verifier": "TheManOMOHAU",
+    "id": 120,
+    "name": "Amazing World",
+    "author": "Cabbage",
+    "creators": ["Cabbage"],
+    "verifier": "Cabbage",
     "verification": "https://mrgdpsdl.pages.dev/#/",
-    "percentToQualify": "67",
+    "percentToQualify": "86",
     "password": "Free To Copy",
     "records": [4,
         {
@@ -27,7 +27,14 @@
             "hz": 360
         },
         {
-            "user": "(SGA) Manroll",
+            "user": "(SEBA) SpilerSebata",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 120
+        },
+    
+        {
+            "user": "DaddyP",
             "link": "https://mrgdpsdl.pages.dev/#/",
             "percent": 100,
             "hz": 120

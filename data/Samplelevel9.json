@@ -1,21 +1,21 @@
 {
-    "id": 124,
-    "name": "NAMED 12",
-    "author": "TheManOMOHAU",
-    "creators": ["TheManOMOHAU"],
-    "verifier": "TheManOMOHAU",
+    "id": 109,
+    "name": "EZI",
+    "author": "Duratech",
+    "creators": ["Duratech"],
+    "verifier": "SadBall",
     "verification": "https://mrgdpsdl.pages.dev/#/",
-    "percentToQualify": "67",
+    "percentToQualify": "84",
     "password": "Free To Copy",
     "records": [4,
         {
-            "user": "SadBall",
+            "user": "Duratech",
             "link": "https://mrgdpsdl.pages.dev/#/",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "Duratech",
+            "user": "(SEBA) SpilerSebata",
             "link": "https://mrgdpsdl.pages.dev/#/",
             "percent": 100,
             "hz": 60
@@ -28,6 +28,24 @@
         },
         {
             "user": "(SGA) Manroll",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "(Nyki) Nyaballo",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "(SGA) SiyaWasHere",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 45
+        },
+        {
+            "user": "Leibei",
             "link": "https://mrgdpsdl.pages.dev/#/",
             "percent": 100,
             "hz": 120

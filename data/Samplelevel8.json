@@ -1,11 +1,11 @@
 {
-    "id": 124,
-    "name": "NAMED 12",
-    "author": "TheManOMOHAU",
-    "creators": ["TheManOMOHAU"],
-    "verifier": "TheManOMOHAU",
+    "id": 118,
+    "name": "Reckless",
+    "author": "Duratech",
+    "creators": ["Duratech"],
+    "verifier": "Duratech",
     "verification": "https://mrgdpsdl.pages.dev/#/",
-    "percentToQualify": "67",
+    "percentToQualify": "81",
     "password": "Free To Copy",
     "records": [4,
         {
@@ -15,7 +15,7 @@
             "hz": 60
         },
         {
-            "user": "Duratech",
+            "user": "DaddyP",
             "link": "https://mrgdpsdl.pages.dev/#/",
             "percent": 100,
             "hz": 60

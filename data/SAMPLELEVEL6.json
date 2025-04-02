@@ -5,7 +5,7 @@
     "creators": ["SadBall"],
     "verifier": "SadBall",
     "verification": "https://mrgdpsdl.pages.dev/#/",
-    "percentToQualify": "67",
+    "percentToQualify": "73",
     "password": "Free To Copy",
     "records": [4,
         {
@@ -31,6 +31,12 @@
             "link": "https://mrgdpsdl.pages.dev/#/",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "(SEBA) SpilerSebata",
+            "link": "https://mrgdpsdl.pages.dev/#/",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
